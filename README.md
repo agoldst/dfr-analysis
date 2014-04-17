@@ -1,3 +1,5 @@
+(I am continuing development of this as an R package in [dfrtopics](http://github.com/agoldst/dfrtopics). Because some scholarly work I've done refers to these scripts, I have left this repository here in its earlier state.)
+
 # dfr-analysis
 
 Bits and pieces to help analyze the data available from JSTOR's Data for Research (DfR) service. Skews to my needs as a literary scholar and digital-humanist-in-progress. Skews to my amateurishness as a programmer. Very much in-progress, hacked together, catch-as-catch-can, I am not an expert, I am not a lawyer, etc., etc., etc. Use and share freely, at your own risk. 
